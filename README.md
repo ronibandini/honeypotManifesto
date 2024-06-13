@@ -1,4 +1,4 @@
-# honeypotManifesto
+# Honeypot Manifesto
 ESP8266 Honeypot WiFi serving a local page with manifesto audio player
 
 # Parts
@@ -9,3 +9,7 @@ Push button https://www.dfrobot.com/product-73.html?tracking=hOuIhw4fDaJRTdy4abz
 
 # 3d parts
 https://cults3d.com/en/3d-model/gadget/honeypot-manifesto
+
+# Contact
+
+For customizations, etc @RoniBandini https://bandini.medium.com
